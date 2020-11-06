@@ -1,0 +1,88 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,141); %set diagram left start at 0, and has height of 141
+
+%Straight Lines [id:da9582699239835635] 
+\draw    (10,105) -- (202,105) (30,101) -- (30,109)(50,101) -- (50,109)(70,101) -- (70,109)(90,101) -- (90,109)(110,101) -- (110,109)(130,101) -- (130,109)(150,101) -- (150,109)(170,101) -- (170,109)(190,101) -- (190,109) ;
+\draw [shift={(205,105)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da25822824192400606] 
+\draw    (30,115) -- (30,18) ;
+\draw [shift={(30,15)}, rotate = 450] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6328880265370158] 
+\draw [color={rgb, 255:red, 80; green, 227; blue, 194 }  ,draw opacity=1 ]   (10,75) -- (30,75) -- (30,90) ;
+%Straight Lines [id:da35577824966156735] 
+\draw [color={rgb, 255:red, 208; green, 2; blue, 27 }  ,draw opacity=1 ]   (200,15) -- (210,15) ;
+%Straight Lines [id:da5768373147382229] 
+\draw [color={rgb, 255:red, 245; green, 166; blue, 35 }  ,draw opacity=1 ]   (200,35) -- (210,35) ;
+%Straight Lines [id:da051736516845879654] 
+\draw [color={rgb, 255:red, 80; green, 227; blue, 194 }  ,draw opacity=1 ]   (200,95) -- (210,95) ;
+%Straight Lines [id:da78321440985524] 
+\draw [color={rgb, 255:red, 126; green, 211; blue, 33 }  ,draw opacity=1 ]   (200,75) -- (210,75) ;
+%Straight Lines [id:da8320322730790584] 
+\draw [color={rgb, 255:red, 126; green, 211; blue, 33 }  ,draw opacity=1 ]   (30,90) -- (50,90) -- (50,80) -- (70,80) -- (70,70) -- (90,70) -- (90,85) -- (110,85) -- (110,75) -- (130,75) -- (130,80) -- (190,80) ;
+%Curve Lines [id:da5342865111144957] 
+\draw [color={rgb, 255:red, 245; green, 166; blue, 35 }  ,draw opacity=1 ]   (30,80) .. controls (43.67,68.33) and (49.33,56.67) .. (75,45) .. controls (100.67,33.33) and (165.17,30.58) .. (189,30) ;
+%Curve Lines [id:da36003403501213227] 
+\draw [color={rgb, 255:red, 208; green, 2; blue, 27 }  ,draw opacity=1 ]   (9,75) .. controls (20.67,58.83) and (23.67,50.17) .. (44,40) .. controls (64.33,29.83) and (165.17,30.58) .. (189,30) ;
+%Straight Lines [id:da23954660291553243] 
+\draw    (186,15) -- (32,15) ;
+\draw [shift={(29,15)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(189,15)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Straight Lines [id:da6047393751986063] 
+\draw    (146,95) -- (32,95) ;
+\draw [shift={(29,95)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(149,95)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Straight Lines [id:da3323516224695455] 
+\draw    (186,95) -- (172,95) ;
+\draw [shift={(169,95)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(189,95)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Straight Lines [id:da4081194420057319] 
+\draw    (46,30) -- (12,30) ;
+\draw [shift={(9,30)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+\draw [shift={(49,30)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (5.36,-2.57) -- (0,0) -- (5.36,2.57) -- cycle    ;
+%Curve Lines [id:da47654341313261317] 
+\draw [color={rgb, 255:red, 248; green, 231; blue, 28 }  ,draw opacity=1 ]   (10,100) .. controls (17,91) and (22.33,88.33) .. (30,80) ;
+%Straight Lines [id:da12865297344018445] 
+\draw [color={rgb, 255:red, 248; green, 231; blue, 28 }  ,draw opacity=1 ]   (200,55) -- (210,55) ;
+
+% Text Node
+\draw (32,121.5) node  [font=\footnotesize]  {$k_{p}$};
+% Text Node
+\draw (69,121.5) node  [font=\footnotesize]  {$k_{p} +2$};
+% Text Node
+\draw (109,121.5) node  [font=\footnotesize]  {$k_{p} +4$};
+% Text Node
+\draw (151,121.5) node  [font=\footnotesize]  {$k_{p} +6$};
+% Text Node
+\draw (191,121.5) node  [font=\footnotesize]  {$k_{p} +8$};
+% Text Node
+\draw (36,17) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize] [align=left] {{\footnotesize Future}};
+% Text Node
+\draw (3,17) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize] [align=left] {{\footnotesize Past}};
+% Text Node
+\draw (106,6.5) node  [font=\footnotesize]  {$n_{p}$};
+% Text Node
+\draw (78.5,86.5) node  [font=\footnotesize]  {$n_{c}$};
+% Text Node
+\draw (181,83.5) node  [font=\footnotesize]  {$\Delta t_{p}$};
+% Text Node
+\draw (216.5,36.5) node  [font=\footnotesize]  {$\underset{\rightarrow }{\bm{y}}$};
+% Text Node
+\draw (216.5,77.5) node  [font=\footnotesize]  {$\underset{\rightarrow }{\bm{u}}$};
+% Text Node
+\draw (216.5,56.5) node  [font=\footnotesize]  {$\underset{\leftarrow }{\bm{y}}$};
+% Text Node
+\draw (216.5,97.5) node  [font=\footnotesize]  {$\underset{\leftarrow }{\bm{u}}$};
+% Text Node
+\draw (221,14) node  [font=\footnotesize]  {$\bm{y}_{\text{ref}}$};
+
+\draw   (30, 80) circle [x radius= 2, y radius= 2]   ;
+\draw   (30, 80) circle [x radius= 2, y radius= 2]   ;
+\draw   (189, 30) circle [x radius= 2, y radius= 2]   ;
+\draw   (30, 80) circle [x radius= 2, y radius= 2]   ;
+\draw   (30, 80) circle [x radius= 2, y radius= 2]   ;
+\draw   (30, 80) circle [x radius= 2, y radius= 2]   ;
+\end{tikzpicture}

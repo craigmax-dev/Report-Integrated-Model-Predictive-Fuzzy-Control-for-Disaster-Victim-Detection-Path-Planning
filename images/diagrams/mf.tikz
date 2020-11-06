@@ -1,0 +1,54 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Straight Lines [id:da04266212138413272] 
+\draw    (140,130) -- (170,130) ;
+%Straight Lines [id:da5615486136515757] 
+\draw    (170,130) -- (190,80) ;
+%Straight Lines [id:da6878673762382461] 
+\draw    (200,130) -- (240,130) ;
+%Straight Lines [id:da07753027363118248] 
+\draw    (200,130) -- (190,80) ;
+%Straight Lines [id:da17094403101995836] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (140,83) -- (140,130) ;
+\draw [shift={(140,80)}, rotate = 90] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da974652102103267] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (237,130) -- (120,130) ;
+\draw [shift={(240,130)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Curve Lines [id:da041924996836317785] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (220,110) .. controls (210.96,115.45) and (210.67,117.56) .. (201.95,127.75) ;
+\draw [shift={(200,130)}, rotate = 311.24] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Curve Lines [id:da3285809807137392] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (160,110) .. controls (163.08,112.62) and (165.31,116.24) .. (169.06,127.19) ;
+\draw [shift={(170,130)}, rotate = 251.78] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Curve Lines [id:da8915647527261765] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (210,60) .. controls (200.96,65.45) and (200.67,67.56) .. (191.95,77.75) ;
+\draw [shift={(190,80)}, rotate = 311.24] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da17337014814016838] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (240,80) -- (120,80) ;
+
+% Text Node
+\draw (144.5,141.5) node  [font=\footnotesize]  {$r_{\text{min}}$};
+% Text Node
+\draw (242.5,141.5) node  [font=\footnotesize]  {$r_{\text{max}}$};
+% Text Node
+\draw (113,128) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (113,78) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (151,95.4) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize]  {$p_{1}$};
+% Text Node
+\draw (211,52.4) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize]  {$p_{2}$};
+% Text Node
+\draw (221,102.4) node [anchor=north west][inner sep=0.75pt]  [font=\footnotesize]  {$p_{3}$};
+% Text Node
+\draw (131,62.4) node [anchor=north west][inner sep=0.75pt]    {$\mu ( x)$};
+% Text Node
+\draw (247,130) node    {$x$};
+
+
+\end{tikzpicture}

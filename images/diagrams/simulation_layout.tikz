@@ -1,0 +1,29 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Straight Lines [id:da7993190773228462] 
+\draw    (70,60) -- (70,77) ;
+\draw [shift={(70,80)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp003387366299066885] 
+\draw   (20,20) -- (120,20) -- (120,60) -- (20,60) -- cycle ;
+%Shape: Rectangle [id:dp8708815145350763] 
+\draw   (20,80) -- (120,80) -- (120,120) -- (20,120) -- cycle ;
+%Shape: Rectangle [id:dp8650174149818981] 
+\draw   (20,140) -- (120,140) -- (120,180) -- (20,180) -- cycle ;
+%Straight Lines [id:da40119800063071076] 
+\draw    (70,120) -- (70,137) ;
+\draw [shift={(70,140)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+
+% Text Node
+\draw (70,100) node   [align=left] {Simulation};
+% Text Node
+\draw (70,40) node   [align=left] {Pre-processing};
+% Text Node
+\draw (70,160) node   [align=left] {Post-processing};
+
+
+\end{tikzpicture}

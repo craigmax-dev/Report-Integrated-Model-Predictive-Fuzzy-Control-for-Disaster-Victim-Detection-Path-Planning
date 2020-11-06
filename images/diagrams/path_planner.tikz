@@ -1,0 +1,51 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Shape: Rectangle [id:dp4242893566666568] 
+\draw   (200,60) -- (300,60) -- (300,120) -- (200,120) -- cycle ;
+%Straight Lines [id:da08973630741888639] 
+\draw    (130,40) -- (130,57) ;
+\draw [shift={(130,60)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da042854645622107945] 
+\draw    (180,170) -- (250,170) -- (250,123) ;
+\draw [shift={(250,120)}, rotate = 450] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp6857471110076976] 
+\draw   (80,60) -- (180,60) -- (180,120) -- (80,120) -- cycle ;
+%Shape: Rectangle [id:dp3228647670813112] 
+\draw   (80,140) -- (180,140) -- (180,200) -- (80,200) -- cycle ;
+%Straight Lines [id:da9275227861217001] 
+\draw    (130,120) -- (130,137) ;
+\draw [shift={(130,140)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da5110849426187682] 
+\draw    (130,200) -- (130,217) ;
+\draw [shift={(130,220)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da9881257504779095] 
+\draw    (200,90) -- (183,90) ;
+\draw [shift={(180,90)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+
+% Text Node
+\draw (187,161) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (130,89) node    {$q=q+1$};
+% Text Node
+\draw (130.57,29) node    {$q=1$};
+% Text Node
+\draw (132,235.5) node    {${{\{\bm{A}_{\text{target}}}_{1} ,\dotsc ,\ \bm{A}_{\text{target}}}_{n_{a}}\}$};
+% Text Node
+\draw (130,169) node    {$q\leq n_{q}$};
+% Text Node
+\draw (142,207) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (250,90) node   [align=left] {\begin{minipage}[lt]{56.015pt}\setlength\topsep{0pt}
+\begin{center}
+Target \\Assignment
+\end{center}
+
+\end{minipage}};
+
+
+\end{tikzpicture}

@@ -1,0 +1,8 @@
+\begin{tikzpicture}
+\begin{scope}
+    \node[anchor=south west,inner sep=0] (i1) at (0,0) {\includegraphics[width=\linewidth]{images/figures/fis_output_surf_t_response_priority_clean.png}};
+    \node (P0) at (0,3.5) {$p_{\text{att}}$};
+    \node (P1) at (2,1) {$\bar{t}_{\text{response}}$};
+    \node (P2) at (6,1) {$p_{\text{prior}}$};
+    \end{scope}
+\end{tikzpicture}

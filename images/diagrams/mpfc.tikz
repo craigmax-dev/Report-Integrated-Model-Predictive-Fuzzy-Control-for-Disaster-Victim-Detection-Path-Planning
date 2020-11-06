@@ -1,0 +1,89 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Shape: Rectangle [id:dp5964626240609372] 
+\draw   (355,165) -- (435,165) -- (435,205) -- (355,205) -- cycle ;
+%Shape: Rectangle [id:dp5965564870241347] 
+\draw   (235,165) -- (315,165) -- (315,205) -- (235,205) -- cycle ;
+%Shape: Rectangle [id:dp9734785051228652] 
+\draw  [fill={rgb, 255:red, 255; green, 255; blue, 255 }  ,fill opacity=1 ] (230,170) -- (310,170) -- (310,210) -- (230,210) -- cycle ;
+
+%Shape: Rectangle [id:dp38102704288611755] 
+\draw   (230,90) -- (310,90) -- (310,130) -- (230,130) -- cycle ;
+%Shape: Rectangle [id:dp3047168384174803] 
+\draw   (350,90) -- (430,90) -- (430,130) -- (350,130) -- cycle ;
+%Straight Lines [id:da3198281535105503] 
+\draw    (310,100) -- (347,100) ;
+\draw [shift={(350,100)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp7332237780850743] 
+\draw  [fill={rgb, 255:red, 255; green, 255; blue, 255 }  ,fill opacity=1 ] (350,170) -- (430,170) -- (430,210) -- (350,210) -- cycle ;
+%Straight Lines [id:da20694600369698302] 
+\draw    (310,190) -- (347,190) ;
+\draw [shift={(350,190)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6277438521547378] 
+\draw    (390,130) -- (390,150) -- (270,150) -- (270,167) ;
+\draw [shift={(270,170)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da0925594181366316] 
+\draw    (430,190) -- (467,190) ;
+\draw [shift={(470,190)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da3509693763761843] 
+\draw    (450,100) -- (433,100) ;
+\draw [shift={(430,100)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6707778516592167] 
+\draw    (190,190) -- (227,190) ;
+\draw [shift={(230,190)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da3321041981447028] 
+\draw    (433,120) -- (570,120) -- (570,230) -- (190,230) -- (190,110) -- (227,110) ;
+\draw [shift={(230,110)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+\draw [shift={(430,120)}, rotate = 0] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da48643275009642606] 
+\draw    (410,70) -- (410,87) ;
+\draw [shift={(410,90)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da05802598477312282] 
+\draw    (390,70) -- (390,87) ;
+\draw [shift={(390,90)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da9983746926636623] 
+\draw    (330,190) -- (330,120) -- (347,120) ;
+\draw [shift={(350,120)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6737057535344793] 
+\draw    (370,90) -- (370,70) -- (290,70) -- (290,87) ;
+\draw [shift={(290,90)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp18569700457318916] 
+\draw  [fill={rgb, 255:red, 255; green, 255; blue, 255 }  ,fill opacity=1 ] (470,170) -- (550,170) -- (550,210) -- (470,210) -- cycle ;
+%Straight Lines [id:da5025599681746336] 
+\draw    (550,190) -- (587,190) ;
+\draw [shift={(590,190)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+
+% Text Node
+\draw (393,59) node    {$J$};
+% Text Node
+\draw (612,189) node    {$\bm{x}_{k} ,\bm{y}_{k}$};
+% Text Node
+\draw (320.5,179) node    {$\bm{u}_{k}$};
+% Text Node
+\draw (326,89.5) node    {$\underset{\rightarrow }{\bm{y}}_{k}$};
+% Text Node
+\draw (326,58) node    {$\underset{\rightarrow }{\bm{\theta }}_{k}$};
+% Text Node
+\draw (464,97) node    {$\bm{y}_{\text{ref}_{k}}$};
+% Text Node
+\draw (321,139) node    {$\bm{\theta }_{k}$};
+% Text Node
+\draw (270,110) node   [align=left] {Model};
+% Text Node
+\draw (390,110) node   [align=left] {Optimiser};
+% Text Node
+\draw (270,190) node   [align=left] {Path-Planner};
+% Text Node
+\draw (390,190) node   [align=left] {Agent};
+% Text Node
+\draw (440,59.5) node   [align=left] {Constraints};
+% Text Node
+\draw (510,190) node   [align=left] {Environment};
+
+
+\end{tikzpicture}

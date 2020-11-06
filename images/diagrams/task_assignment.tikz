@@ -1,0 +1,156 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,405); %set diagram left start at 0, and has height of 405
+
+%Shape: Rectangle [id:dp29380722670162296] 
+\draw   (120,90) -- (180,90) -- (180,130) -- (120,130) -- cycle ;
+
+%Shape: Rectangle [id:dp28876628963034356] 
+\draw   (200,90) -- (260,90) -- (260,130) -- (200,130) -- cycle ;
+%Shape: Rectangle [id:dp35618495596222566] 
+\draw   (40,290) -- (260,290) -- (260,330) -- (40,330) -- cycle ;
+%Shape: Rectangle [id:dp953303519716225] 
+\draw   (280,290) -- (400,290) -- (400,330) -- (280,330) -- cycle ;
+%Shape: Rectangle [id:dp9141994719983852] 
+\draw   (180,350) -- (400,350) -- (400,390) -- (180,390) -- cycle ;
+%Shape: Rectangle [id:dp7756060528910551] 
+\draw   (530,150) -- (630,150) -- (630,190) -- (530,190) -- cycle ;
+%Shape: Rectangle [id:dp9690242489524918] 
+\draw   (490,210) -- (630,210) -- (630,250) -- (490,250) -- cycle ;
+%Straight Lines [id:da25496283427360344] 
+\draw    (200,250) -- (183,250) ;
+\draw [shift={(180,250)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp8111475037753209] 
+\draw   (120,230) -- (180,230) -- (180,270) -- (120,270) -- cycle ;
+%Shape: Rectangle [id:dp8653179795498966] 
+\draw   (200,230) -- (260,230) -- (260,270) -- (200,270) -- cycle ;
+%Shape: Rectangle [id:dp6674308767420729] 
+\draw   (119,150) -- (179,150) -- (179,190) -- (119,190) -- cycle ;
+%Shape: Rectangle [id:dp7477370049302996] 
+\draw   (199,150) -- (259,150) -- (259,190) -- (199,190) -- cycle ;
+%Straight Lines [id:da18830956775135] 
+\draw    (199,170) -- (182,170) ;
+\draw [shift={(179,170)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da49714164521706117] 
+\draw    (120,250) -- (103,250) ;
+\draw [shift={(100,250)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp6178270849512013] 
+\draw   (40,230) -- (100,230) -- (100,270) -- (40,270) -- cycle ;
+%Straight Lines [id:da45690705720963987] 
+\draw    (70,230) -- (70,210) -- (230,210) -- (230,193) ;
+\draw [shift={(230,190)}, rotate = 450] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da6606192867474243] 
+\draw    (150,190) -- (150,200) -- (20,200) -- (20,310) -- (37,310) ;
+\draw [shift={(40,310)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp046812020846194846] 
+\draw   (290,210) -- (470,210) -- (470,250) -- (290,250) -- cycle ;
+%Straight Lines [id:da29782447282051616] 
+\draw    (160,330) -- (160,370) -- (177,370) ;
+\draw [shift={(180,370)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da2242284066908833] 
+\draw    (400,310) -- (410,310) -- (410,260) -- (263,260) ;
+\draw [shift={(260,260)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da17060522074650764] 
+\draw    (410,310) -- (410,370) -- (400,370) ;
+%Shape: Rectangle [id:dp7850148386281619] 
+\draw   (290,150) -- (510,150) -- (510,190) -- (290,190) -- cycle ;
+%Straight Lines [id:da5988793793439244] 
+\draw    (260,310) -- (277,310) ;
+\draw [shift={(280,310)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da8791555527356156] 
+\draw    (510,170) -- (527,170) ;
+\draw [shift={(530,170)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Rectangle [id:dp37359913899382313] 
+\draw   (40,150) -- (100,150) -- (100,190) -- (40,190) -- cycle ;
+%Straight Lines [id:da15686553209184595] 
+\draw    (120,170) -- (103,170) ;
+\draw [shift={(100,170)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da30883507987151293] 
+\draw    (20,280) -- (150,280) -- (150,270) ;
+%Straight Lines [id:da06289986786180846] 
+\draw    (80,150) -- (80,140) -- (270,140) -- (270,170) -- (287,170) ;
+\draw [shift={(290,170)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da746438673917271] 
+\draw    (200,110) -- (183,110) ;
+\draw [shift={(180,110)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da4793636630648248] 
+\draw    (120,110) -- (20,110) -- (20,200) ;
+%Straight Lines [id:da27804901234799595] 
+\draw    (630,170) -- (640,170) -- (640,110) -- (263,110) ;
+\draw [shift={(260,110)}, rotate = 360] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da5180993510019882] 
+\draw    (470,230) -- (487,230) ;
+\draw [shift={(490,230)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da07566777310094586] 
+\draw    (390,190) -- (390,207) ;
+\draw [shift={(390,210)}, rotate = 270] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da9912018648500152] 
+\draw    (630,230) -- (640,230) -- (640,170) ;
+%Straight Lines [id:da7150179311434566] 
+\draw    (20,70) -- (20,110) ;
+%Straight Lines [id:da6609465850667586] 
+\draw    (150,90) -- (150,70) -- (257,70) ;
+\draw [shift={(260,70)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+
+% Text Node
+\draw (230,110) node    {$a=a+1$};
+% Text Node
+\draw (150,110) node    {$a\leq n_{a}$};
+% Text Node
+\draw (340,310) node    {$\bm{M}_{\text{att}_{a}}( i,j) =\text{NaN}$};
+% Text Node
+\draw (150,308.5) node    {$\bm{M}_{\text{scan}}( i,j) \equiv 1\lor \bm{M}_{\text{schedule}}( i,j) \equiv 1$};
+% Text Node
+\draw (290,370) node    {$\bm{M}_{\text{att}_{a}}( i,j) =\text{FIS}(\overline{t}_{\text{response}} ,p_{\text{prior}} ,\overline{t}_{\text{dw}})$};
+% Text Node
+\draw (402,171) node    {${{\sum ^{{n_{x}}_{s}}_{i=1}\sum ^{{n_{y}}_{s}}_{j=1}\text{isnan}(\bm{M}_{\text{att}_{a}}) \equiv n_{x}}_{s} n_{y}}_{s}$};
+% Text Node
+\draw (580,170) node    {${\bm{A}_{\text{target}}}_{a}( q) =\text{NaN}$};
+% Text Node
+\draw (560,230) node    {${\bm{M}_{\text{schedule}}(\bm{A}_{\text{target}}}_{a}( q)) =1$};
+% Text Node
+\draw (230,250) node    {$j=j+1$};
+% Text Node
+\draw (150,250) node    {$j\leq n_{y_{s}}$};
+% Text Node
+\draw (229,170) node    {$i=i+1$};
+% Text Node
+\draw (149,170) node    {$i\leq n_{x_{s}}$};
+% Text Node
+\draw (193,238) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (70,250) node    {$j=1$};
+% Text Node
+\draw (113,238) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (33,298) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (380,230) node    {${\bm{A}_{\text{target}}}_{a}( q) =\text{find}(\max(\bm{M}_{\text{att}_{a}}))$};
+% Text Node
+\draw (173,362) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (273,298) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (407,202) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (523,158) node  [font=\footnotesize]  {$1$};
+% Text Node
+\draw (70,170) node    {$i=1$};
+% Text Node
+\draw (113,158) node  [font=\footnotesize]  {$0$};
+% Text Node
+\draw (23.5,40) node    {$ \begin{array}{l}
+i=1,\\
+j=1,\\
+a=1
+\end{array}$};
+% Text Node
+\draw (380.5,65.5) node    {${{\{\bm{A}_{\text{target}}}_{1}( 1:q) ,\dotsc ,\ \bm{A}_{\text{target}}}_{n_{a}}( 1:q)\}$};
+% Text Node
+\draw (163,82) node  [font=\footnotesize]  {$1$};
+
+
+\end{tikzpicture}

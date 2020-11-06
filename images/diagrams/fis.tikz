@@ -1,0 +1,36 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,82); %set diagram left start at 0, and has height of 82
+
+%Shape: Rectangle [id:dp9395411640711151] 
+\draw   (95,10) -- (165,10) -- (165,70) -- (95,70) -- cycle ;
+
+%Straight Lines [id:da05673561626313495] 
+\draw    (65,20) -- (92,20) ;
+\draw [shift={(95,20)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da5562180334689544] 
+\draw    (45,40) -- (92,40) ;
+\draw [shift={(95,40)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da729072955565595] 
+\draw    (35,60) -- (92,60) ;
+\draw [shift={(95,60)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Straight Lines [id:da11576940556507842] 
+\draw    (165,40) -- (192,40) ;
+\draw [shift={(195,40)}, rotate = 180] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+
+% Text Node
+\draw (117.5,31.5) node [anchor=north west][inner sep=0.75pt]   [align=left] {FIS};
+% Text Node
+\draw (23,59.5) node  [font=\small]  {$\overline{t}_{\text{dw}}$};
+% Text Node
+\draw (28,39.5) node  [font=\small]  {$p_{\text{prior}}$};
+% Text Node
+\draw (37.5,19.5) node  [font=\small]  {$\overline{t}_{\text{response}}$};
+% Text Node
+\draw (207.5,39.5) node  [font=\small]  {$p_{\text{att}}$};
+
+
+\end{tikzpicture}

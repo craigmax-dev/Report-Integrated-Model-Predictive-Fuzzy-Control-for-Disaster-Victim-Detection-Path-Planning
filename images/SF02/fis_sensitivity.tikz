@@ -1,0 +1,9 @@
+\begin{tikzpicture}
+\begin{scope}
+    \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=\linewidth]{images/SF02/fis_sensitivity_clean.png}};
+    \node (P0) at (14,5) {$p_{\text{att}}$};
+    \node (P1) at (12,1) {$\bar{t}_{\text{response}}$};
+    \node (P2) at (7,1) {$p_{\text{prior}}$};
+    \node (P3) at (5,5) {$\bar{t}_{\text{dw}}$};
+    \end{scope}
+\end{tikzpicture}

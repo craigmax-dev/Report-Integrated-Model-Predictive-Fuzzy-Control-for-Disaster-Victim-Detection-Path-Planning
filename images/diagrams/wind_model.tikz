@@ -1,0 +1,24 @@
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Straight Lines [id:da29309666259317946] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (60,100) -- (60,20) ;
+%Straight Lines [id:da9720704726891956] 
+\draw  [dash pattern={on 0.84pt off 2.51pt}]  (20,60) -- (100,60) ;
+%Straight Lines [id:da5592722731429154] 
+\draw    (60,60) -- (78.66,22.68) ;
+\draw [shift={(80,20)}, rotate = 476.57] [fill={rgb, 255:red, 0; green, 0; blue, 0 }  ][line width=0.08]  [draw opacity=0] (8.93,-4.29) -- (0,0) -- (8.93,4.29) -- cycle    ;
+%Shape: Arc [id:dp9494784608740974] 
+\draw  [draw opacity=0][dash pattern={on 4.5pt off 4.5pt}] (73.06,32.98) .. controls (82.87,37.73) and (89.7,47.66) .. (89.99,59.22) -- (60,60) -- cycle ; \draw  [dash pattern={on 4.5pt off 4.5pt}] (73.06,32.98) .. controls (82.87,37.73) and (89.7,47.66) .. (89.99,59.22) ;
+
+% Text Node
+\draw (78,49) node    {$\alpha _{w}$};
+% Text Node
+\draw (91.5,11) node    {$v_{w}$};
+
+
+\end{tikzpicture}

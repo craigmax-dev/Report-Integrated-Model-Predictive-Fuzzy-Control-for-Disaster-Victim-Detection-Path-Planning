@@ -1,0 +1,8 @@
+\begin{tikzpicture}
+\begin{scope}
+    \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=\linewidth]{images/figures/fis.png}};
+    \node (P0) at (5,6.5) {$\bar{t}_{\text{response}}$};
+    \node (P1) at (5,3) {$p_{\text{prior}}$};
+    \node (P2) at (5,-0.5) {$\bar{t}_{\text{dw}}$};
+\end{scope}
+\end{tikzpicture}

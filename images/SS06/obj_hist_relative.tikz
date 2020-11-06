@@ -1,0 +1,7 @@
+\begin{tikzpicture}
+\begin{scope}
+    \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=\linewidth]{images/SS06/s_obj_hist_relative.jpg}};
+    \node (P0) at (0,3.5) {$\frac{\sum_{k_{i}=0}^{k} J_{\text{sim}}}{\sum_{k_{i}=0}^{k} J_{1}}$};
+    \node (P0) at (5,0) {Time (\si{\second})};
+\end{scope}
+\end{tikzpicture}   
